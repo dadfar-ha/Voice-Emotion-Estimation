@@ -16,11 +16,11 @@ Before Testing, please install these libraries from huggingface:
 
 
 ### Test - Section
-for testing, please run '''bash test.py '''
+for testing, please run ''' test.py '''
 
 
 ## Models
 
 | Dataset                                                                                                                      | Model                                                                                                                                           |
 |------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Trained Model for Emotion Estimation]([https://github.com/mansourehk/ShEMO](https://drive.google.com/file/d/1GS3SDOWaXgU9ykMrEjhiAdVLlagturhS/view?usp=drive_link)https://drive.google.com/file/d/1GS3SDOWaXgU9ykMrEjhiAdVLlagturhS/view?usp=drive_link)          |
+| [Trained Model for Emotion Estimation]([https://github.com/mansourehk/ShEMO](https://drive.google.com/file/d/1GS3SDOWaXgU9ykMrEjhiAdVLlagturhS/view?usp=drive_link)https://drive.google.com/file/d/1GS3SDOWaXgU9ykMrEjhiAdVLlagturhS/view?usp=drive_link)          |   |

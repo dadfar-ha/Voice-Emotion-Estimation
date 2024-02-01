@@ -3,7 +3,7 @@ A mew Method for estimating the emotion of speech (Persian_Dataset).
 
 
 
-### Test - Section
+### Requires - Section
 Before Testing, please install these libraries from huggingface:
 
 
@@ -15,5 +15,12 @@ Before Testing, please install these libraries from huggingface:
 ```
 
 
-###Test
+### Test - Section
 for testing, please run '''bash test.py '''
+
+
+## Models
+
+| Dataset                                                                                                                      | Model                                                                                                                                           |
+|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Trained Model for Emotion Estimation]([https://github.com/mansourehk/ShEMO](https://drive.google.com/file/d/1GS3SDOWaXgU9ykMrEjhiAdVLlagturhS/view?usp=drive_link)https://drive.google.com/file/d/1GS3SDOWaXgU9ykMrEjhiAdVLlagturhS/view?usp=drive_link)          |

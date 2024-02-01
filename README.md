@@ -15,7 +15,7 @@ Before Testing, please install these libraries from huggingface:
 ```
 ```bash
 !git clone https://github.com/m3hrdadfi/soxan.git
-!git vlone https://github.com/dadfar-ha/Voice-Emotion-Estimation.git
+!git clone https://github.com/dadfar-ha/Voice-Emotion-Estimation.git
 ```
 ### Dataset - Section
 you can download the SheMo dataset by following link (female utterances):

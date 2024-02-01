@@ -23,4 +23,4 @@ for testing, please run ''' test.py '''
 
 | Dataset                                                                                                                      | Model                                                                                                                                           |
 |------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Trained Model for Emotion Estimation]([https://github.com/mansourehk/ShEMO](https://drive.google.com/file/d/1GS3SDOWaXgU9ykMrEjhiAdVLlagturhS/view?usp=drive_link)https://drive.google.com/file/d/1GS3SDOWaXgU9ykMrEjhiAdVLlagturhS/view?usp=drive_link)          |   |
+| [Trained Model for Emotion Estimation]([https://github.com/mansourehk/ShEMO](https://drive.google.com/file/d/1GS3SDOWaXgU9ykMrEjhiAdVLlagturhS/view?usp=drive_link)          |   |

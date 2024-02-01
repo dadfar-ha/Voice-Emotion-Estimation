@@ -41,4 +41,4 @@ for testing, please run ''' test.py '''
 
 | Name                                                                                                                      | Model                                                                                                                                           |
 |------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Pre-Trained Model for persian dataset besed on HUBERT]          | [Model](https://huggingface.co/m3hrdadfi/wav2vec2-xlsr-persian-speech-emotion-recognition)         |   |
+| [Pre-Trained Model for persian dataset besed on HUBERT]          | [Model](https://drive.google.com/file/d/1akPKJN5-PoFSDPRWjCcb5VMzN79Ee8PA/view?usp=drive_link)         |   |

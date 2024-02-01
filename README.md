@@ -23,4 +23,4 @@ for testing, please run ''' test.py '''
 
 | Dataset                                                                                                                      | Model                                                                                                                                           |
 |------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Trained Model for Emotion Estimation]([https://github.com/mansourehk/ShEMO](https://drive.google.com/file/d/1GS3SDOWaXgU9ykMrEjhiAdVLlagturhS/view?usp=drive_link)          |   |
+| [ShEMO: a large-scale validated database for Persian speech emotion detection]          | [Model](https://huggingface.co/m3hrdadfi/wav2vec2-xlsr-persian-speech-emotion-recognition)         |   |

@@ -21,6 +21,6 @@ for testing, please run ''' test.py '''
 
 ## Models
 
-| Dataset                                                                                                                      | Model                                                                                                                                           |
+| Name                                                                                                                      | Model                                                                                                                                           |
 |------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| [ShEMO: a large-scale validated database for Persian speech emotion detection]          | [Model](https://huggingface.co/m3hrdadfi/wav2vec2-xlsr-persian-speech-emotion-recognition)         |   |
+| [Pre-Trained Model for persian dataset besed on HUBERT]          | [Model](https://huggingface.co/m3hrdadfi/wav2vec2-xlsr-persian-speech-emotion-recognition)         |   |

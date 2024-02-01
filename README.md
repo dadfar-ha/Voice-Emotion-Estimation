@@ -14,7 +14,6 @@ Before Testing, please install these libraries from huggingface:
 !pip install git+https://github.com/huggingface/transformers.git
 ```
 ```bash
-!git clone https://github.com/m3hrdadfi/soxan.git
 !git clone https://github.com/dadfar-ha/Voice-Emotion-Estimation.git
 ```
 ## Dataset - Section

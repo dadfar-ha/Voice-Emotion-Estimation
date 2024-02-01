@@ -3,7 +3,7 @@ A mew Method for estimating the emotion of speech (Persian_Dataset).
 
 
 
-### Requires - Section
+## Requires - Section
 Before Testing, please install these libraries from huggingface:
 
 
@@ -17,7 +17,7 @@ Before Testing, please install these libraries from huggingface:
 !git clone https://github.com/m3hrdadfi/soxan.git
 !git clone https://github.com/dadfar-ha/Voice-Emotion-Estimation.git
 ```
-### Dataset - Section
+## Dataset - Section
 you can download the SheMo dataset by following link (female utterances):
 ```bash
 wget -O female.zip "https://www.dropbox.com/s/4t6mep8mo4yf81f/female.zip?dl=0"
@@ -33,7 +33,7 @@ you can download the SheMo dataset by following link (labels):
 wget https://github.com/pariajm/sharif-emotional-speech-dataset/raw/master/shemo.json
 ```
 
-### Test - Section
+## Test - Section
 for testing, please run ''' test.py '''
 
 
